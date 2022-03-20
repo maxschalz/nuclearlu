@@ -1,5 +1,5 @@
 # nu.clear.lu
-<img src="logo/logo-cropped-noname.png" alt="Zeechnung vun enger duerchgestrachener Atomwaff." width="100"/>
+<img src="logo/logo-cropped-lowres-noname.jpg" alt="Zeechnung vun enger duerchgestrachener Atomwaff." width="100"/>
 
 _English version [available here](README.md)_.
 

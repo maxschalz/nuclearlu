@@ -1,5 +1,5 @@
 # nu.clear.lu
-<img src="logo/logo-cropped-noname.png" alt="Crossed out nuclear weapon." width="100"/>
+<img src="logo/logo-cropped-lowres-noname.jpg" alt="Crossed out nuclear weapon." width="100"/>
 
 _Fir déi lëtzebuergesch Versioun, [klick hei](README_luxembourgish.md)_.
 
