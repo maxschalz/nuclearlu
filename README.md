@@ -6,7 +6,7 @@ _Fir déi lëtzebuergesch Versioun, [klick hei](README_luxembourgish.md)_.
 _nu.clear.lu_ is a project aimed at informing the broad public on nuclear weapons.
 Currently, all information is in English and/or Luxembourgish.
 
-This repository contains data, references and additional information to the posts on [nu.clear.lu's Instagram account](TODO INSERT LINK).
+This repository contains data, references and additional information to the posts on [nu.clear.lu's Instagram account](https://www.instagram.com/nu.clear.lu/).
 
 ## Structure
 - `creativecommons-icons/` contains [Creative Commons](https://creativecommons.org/) icons used to indicate the license.
