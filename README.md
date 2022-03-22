@@ -1,7 +1,7 @@
 # nu.clear.lu
 <img src="logo/logo-cropped-lowres-noname.jpg" alt="Crossed out nuclear weapon." width="100"/>
 
-_ 🇱🇺 Fir déi lëtzebuergesch Versioun, [klick hei](README_luxembourgish.md)_.
+_🇱🇺 Fir déi lëtzebuergesch Versioun, [klick hei](README_luxembourgish.md)_.
 
 _nu.clear.lu_ is a project aimed at informing the broad public on nuclear weapons.
 Currently, all information is in English and/or Luxembourgish.
