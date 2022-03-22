@@ -1,7 +1,7 @@
 # nu.clear.lu
 <img src="logo/logo-cropped-lowres-noname.jpg" alt="Zeechnung vun enger duerchgestrachener Atomwaff." width="100"/>
 
-_English version [available here](README.md)_.
+_:gb: English version [available here](README.md)_.
 
 _nu.clear.lu_ ass e Projet, deen de Public iwwert Atomwaffen informéiere well.
 All Informatiounen sinn op Lëtzebuergesch an/oder op Englesch.
@@ -9,7 +9,7 @@ All Informatiounen sinn op Lëtzebuergesch an/oder op Englesch.
 Dëse Repository enthält Informatiounen a Quellen zu Posts op dem [nu.clear.lu Instagramaccount](https://www.instagram.com/nu.clear.lu/).
 
 ## Posts
-| Thema | Datum | Link |
+| Thema | Datum | Zousätzlech Informatiounen |
 |:-----|---:|:---|
 | Intro | 22/03/2022 | [Klick hei](/posts/intro_atomwaffen_relikt) |
 
