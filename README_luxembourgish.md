@@ -15,8 +15,8 @@ Dëse Repository enthält Informatiounen a Quellen zu Posts op dem [nu.clear.lu 
 | Atomwaffestaaten | 28/03/2022 | [Klick hei](/posts/nuclear_weapon_states) |
 
 ## Struktur
-- `posts/`.
+- [`posts/`](/posts).
   Hei fënns du Transkriptioune vun de Posts, Links zu Quellen a weider Informatiounen.
-- `creativecommons-icons/` enthält [Creative Commons](https://creativecommons.org/)-Symboler, déi genotzt ginn fir d'Lizenz a Kuerzform unzeginn.
-- `logo/` enthält d'Logo vun nu.clear.lu a verschiddene Gréissten asw.
-- `raphaelsilva-instagram-icons/` enthält Instagram-Piktogrammer, déi vum [Raphael Silva, pixabay.com](https://pixabay.com/users/raphaelsilva-4702998/) erstallt goufen.
+- [`creativecommons-icons/`](/creativecommons) enthält [Creative Commons](https://creativecommons.org/)-Symboler, déi genotzt ginn fir d'Lizenz a Kuerzform unzeginn.
+- [`logo/`](/logo) enthält d'Logo vun nu.clear.lu a verschiddene Gréissten asw.
+- [`raphaelsilva-instagram-icons/`](/raphaelsilva-instagram-icons) enthält Instagram-Piktogrammer, déi vum [Raphael Silva, pixabay.com](https://pixabay.com/users/raphaelsilva-4702998/) erstallt goufen.

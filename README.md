@@ -15,9 +15,9 @@ This repository contains data, references and additional information to the post
 | Nuclear weapon states| 28/03/2022 | [Click here](/posts/nuclear_weapon_states) |
 
 ## Structure
-- `posts/`.
+- [`posts/`](/posts).
   Probably what you are looking for.
   Here, you can find plain text transcripts of the posts, links to references and additional information.
-- `creativecommons-icons/` contains [Creative Commons](https://creativecommons.org/) icons used to indicate the license.
-- `logo/` contains nu.clear.lu's logo in different sizes etc.
-- `raphaelsilva-instagram-icons/` contains Instagram icons, courtesy of [Raphael Silva, pixabay.com](https://pixabay.com/users/raphaelsilva-4702998/).
+- [`creativecommons-icons/`](/creativecommons) contains [Creative Commons](https://creativecommons.org/) icons used to indicate the license.
+- [`logo/`](/logo) contains nu.clear.lu's logo in different sizes etc.
+- [`raphaelsilva-instagram-icons/`](/raphaelsilva-instagram-icons) contains Instagram icons, courtesy of [Raphael Silva, pixabay.com](https://pixabay.com/users/raphaelsilva-4702998/).
