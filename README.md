@@ -11,8 +11,9 @@ This repository contains data, references and additional information to the post
 ## Post History
 | Topic | Date | Additional information |
 |:-----|---:|:---|
-| Introduction | 22/03/2022 | [Click here](/posts/intro_atomwaffen_relikt) |
-| Nuclear weapon states| 28/03/2022 | [Click here](/posts/nuclear_weapon_states) |
+| Introduction | 22/03/2022 | [Click here](/posts/01_intro_atomwaffen_relikt) |
+| Nuclear weapon states| 28/03/2022 | [Click here](/posts/02_nuclear_weapon_states) |
+| Nuclear Explosion. The first minute | 24/04/2022 | [Click here](/posts/03_nuclear_explosion) |
 
 ## Structure
 - [`posts/`](/posts).

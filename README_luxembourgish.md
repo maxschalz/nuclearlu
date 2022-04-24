@@ -11,8 +11,9 @@ Dëse Repository enthält Informatiounen a Quellen zu Posts op dem [nu.clear.lu 
 ## Posts
 | Thema | Datum | Zousätzlech Informatiounen |
 |:-----|---:|:---|
-| Intro | 22/03/2022 | [Klick hei](/posts/intro_atomwaffen_relikt) |
-| Atomwaffestaaten | 28/03/2022 | [Klick hei](/posts/nuclear_weapon_states) |
+| Intro | 22/03/2022 | [Klick hei](/posts/01_intro_atomwaffen_relikt) |
+| Atomwaffestaaten | 28/03/2022 | [Klick hei](/posts/02_nuclear_weapon_states) |
+| Atomwaffenexplosioun. Déi éischt Minutt | 24/04/2022 | [Klick hei](/posts/03_nuclear_explosion) |
 
 ## Struktur
 - [`posts/`](/posts).
