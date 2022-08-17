@@ -1,5 +1,5 @@
-# Luxembourgish Title and Subtitle
-# English Title and Subtitle
+# Explosioun vun enger Atombomm: Wat geschitt an där éischter Minutt?
+# Nuclear Explosion: What happens during the first minute?
 _:gb: English version [further below](#plain-text-transcription)_
 
 ## Transkriptioun
